@@ -57,25 +57,13 @@ sns.heatmap(df.corr(),annot=True)
 ~~~
 
 ## OUTPUT:
-![out](Screenshot%20(168).png)
-![out](Screenshot%20(169).png)
-![out](Screenshot%20(170).png)
-![out](Screenshot%20(171).png)
-![out](Screenshot%20(172).png)
-![out](Screenshot%20(173).png)
-![out](Screenshot%20(174).png)
-![out](Screenshot%20(175).png)
-![out](Screenshot%20(176).png)
-![out](Screenshot%20(177).png)
-![out](Screenshot%20(178).png)
-![out](Screenshot%20(179).png)
-![out](Screenshot%20(180).png)
-![out](Screenshot%20(181).png)
-![out](Screenshot%20(182).png)
-![out](Screenshot%20(183).png)
-![out](Screenshot%20(184).png)
-![out](Screenshot%20(185).png)
-![out](Screenshot%20(186).png)
+![out](scr1.png)
+![out](scr2.png)
+![out](scr3.png)
+![out](scr4.png)
+![out](scr5.png)
+![out](scr6.png)
+![out](scr7.png)
 
 ## RESULT:
 The data has been cleaned, outlier has been removed and the EDA on the given data has been performed.
